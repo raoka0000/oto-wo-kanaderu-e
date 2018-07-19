@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x97f3;&#x3092;&#x594f;&#x3066;&#x3099;&#x308b;&#x7d75;/SecondViewController.swift"
+            timestampString = "468659752.720958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "&#x77e9;&#x5f62;&#x6ce2;&#x306e;&#x30c7;&#x30fc;&#x30bf;&#x3092;&#x751f;&#x6210;&#x3059;&#x308b;(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x97f3;&#x3092;&#x594f;&#x3066;&#x3099;&#x308b;&#x7d75;/SecondViewController.swift"
+            timestampString = "468659788.399902"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "&#x30d1;&#x30eb;&#x30b9;&#x6ce2;&#x306e;&#x30c7;&#x30fc;&#x30bf;&#x3092;&#x751f;&#x6210;&#x3059;&#x308b;(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x97f3;&#x3092;&#x594f;&#x3066;&#x3099;&#x308b;&#x7d75;/SecondViewController.swift"
+            timestampString = "468661170.858561"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "&#x5e73;&#x5ca1;&#x6ce2;&#x306e;&#x30c7;&#x30fc;&#x30bf;&#x3092;&#x751f;&#x6210;&#x3059;&#x308b;(_:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
